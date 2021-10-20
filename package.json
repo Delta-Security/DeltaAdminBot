@@ -10,7 +10,8 @@
   },
   "keywords": [],
   "author": "Ryder",
-  "license": "ISC",
+  "contributor": "emily"
+  "license": "NONE",
   "dependencies": {
     "discord.js": "^12.2.0",
     "fs": "0.0.1-security",
